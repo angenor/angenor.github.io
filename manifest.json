@@ -19,10 +19,5 @@
             "sizes": "512x512",
             "type": "image/png"
         }
-    ],
-    "assets":[
-        "logos/",
-        "photos/",
-        "gifs/"
     ]
 }

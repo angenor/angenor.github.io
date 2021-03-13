@@ -51273,7 +51273,7 @@ $0:function(){return F.iz(u.Y)},
 $S:0}
 U.zc.prototype={
 K:function(a,b){var s=null,r=t.w,q=b.a4(r).f.a,p=M.as(s,s,s,s,new S.ds(s,new X.y9(new L.lT("photos/font_decran1.jpg",s,s),C.ol),s,s,s,s,C.Z),q.b,s,s,q.a),o=t.X,n=T.cU(H.b([new K.xV(s),new S.qW(!1,this.x,this.y,s)],o),C.F,C.w),m=b.a4(r).f,l=b.a4(r).f
-return M.as(s,T.tu(C.hd,H.b([p,n,T.mZ(m.a.b/2.5,M.as(s,O.ca("MASTER 2 SYSTEME D\u2019INFORMATION ET GENIE LOGICIEL",C.i,C.H,C.C,3.5),s,s,s,s,s,s,l.a.a*0.75),s,s,10,s,s,s),T.mZ(-2,U.zg("photos/ma_photo1.png",s,s,b.a4(r).f.a.a*0.25),s,s,s,5,s,s),T.mZ(50,R.hv(!1,!0,U.zg("gifs/scroll_down.gif",s,100,s),s,!0,s,s,s,s,s,s,s,s,s,new U.Oy(this),s),s,s,0,0,s,s)],o),C.h6),s,s,s,s,s,s,s)}}
+return M.as(s,T.tu(C.hd,H.b([p,n,T.mZ(m.a.b/2.5,M.as(s,O.ca("MASTER 2 SYSTEME D\u2019INFORMATION ET GENIE LOGICIEL",C.i,C.H,C.C,3.5),s,s,s,s,s,s,l.a.a*0.75),s,s,10,s,s,s),T.mZ(-2,U.zg("photos/ma_photo1.png",s,s,b.a4(r).f.a.a*0.25),s,s,s,5,s,s),T.mZ(50,R.hv(!1,!0,U.zg("logos/scroll_down.gif",s,100,s),s,!0,s,s,s,s,s,s,s,s,s,new U.Oy(this),s),s,s,0,0,s,s)],o),C.h6),s,s,s,s,s,s,s)}}
 U.Oy.prototype={
 $0:function(){this.a.x.d7(756,C.iI,P.bz(0,0,1))},
 $S:1}
