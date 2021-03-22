@@ -22099,6 +22099,7 @@ Dp:function(a,b){if(!$.a9T){$.a9T=!0
 window
 if(typeof console!="undefined")window.console.warn("The performance overlay isn't supported on the web")}},
 Dq:function(a,b,c,d){var s,r
+c
 t.l9.a(b)
 s=b.a.b
 r=new H.er(null)
@@ -53880,8 +53881,11 @@ $2:function(a,b){return this.a.c},
 $S:330}
 O.E0.prototype={}
 Q.ow.prototype={
-L:function(a,b){var s=null,r=T.aC(s,70,s),q=O.bU(this.c,C.n,C.H,C.J,3),p=this.d,o=p!==""||!1
-return M.ag(s,T.ck(H.b([r,q,L.aa8(O.bU(p,C.l.h(0,600),C.H,C.J,2.1),o),T.aC(s,15,s),M.ag(s,s,C.i,C.df.h(0,700),s,s,s,6,s,s,s,s,50),T.aC(s,70,s)],t.X),C.A,C.v),C.i,s,s,s,s,s,s,s,s,s,s)}}
+L:function(a,b){var s,r,q=null,p=T.aC(q,70,q),o=b.D(t.w).f.a.a>=1033?3:2.5
+o=O.bU(this.c,C.n,C.H,C.J,o)
+s=this.d
+r=s!==""||!1
+return M.ag(q,T.ck(H.b([p,o,L.aa8(O.bU(s,C.l.h(0,600),C.H,C.J,2.1),r),T.aC(q,15,q),M.ag(q,q,C.i,C.df.h(0,700),q,q,q,6,q,q,q,q,50),T.aC(q,70,q)],t.X),C.A,C.v),C.i,q,q,q,q,q,q,q,q,q,q)}}
 E.SR.prototype={}
 E.iv.prototype={
 gk:function(a){return this.b},
@@ -58269,4 +58273,3 @@ a(b.target)}for(var r=0;r<s.length;++r)s[r].addEventListener("load",onLoad,false
 var s=F.a3k
 if(typeof dartMainRunner==="function")dartMainRunner(s,[])
 else s([])})})()
-//# sourceMappingURL=main.dart.js.map
